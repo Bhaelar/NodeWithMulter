@@ -1,0 +1,16 @@
+{
+  "name": "nodeuploadwithmulter",
+  "version": "1.0.0",
+  "description": "uploading images on Node with Multer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "multer": "^1.4.2"
+  }
+}
